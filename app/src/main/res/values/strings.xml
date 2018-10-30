@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Intent_ResponseBundle</string>
+    <string name="textViewExplicit">Explicit Intent</string>
+    <string name="textViewSingle">SingleName</string>
+    <string name="editTextSingle" />
+    <string name="textViewBundle">BundleName</string>
+    <string name="editTextBundle" />
+    <string name="textViewResult">Result</string>
+    <string name="buttonExplicit">Button Explicit</string>
+    <string name="textViewExplict">Explicit Intent</string>
+    <string name="editTextResult">Result Value</string>
+</resources>
